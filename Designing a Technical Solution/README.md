@@ -1,6 +1,6 @@
 # edx course - Designing a Technical Solution
 
-<h4>Hello.html</h4>
+<h4>hello.html</h4>
 My first exercise on edx course - Designing a Technical Solution about HTML,
 so...Hello World!
 
