@@ -24,7 +24,7 @@ Assignment
     Extra challenge: Use an HTML reference to identify and properly use an element we haven't yet introduced.
 
     Be creative!
-    
+<hr>
 <h4>AboutMe2.html</h4>
 3rd exercise where i tell you about me using basic tags for the second time, if you want you could take a look.
 
