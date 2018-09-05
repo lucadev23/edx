@@ -24,6 +24,29 @@ Assignment
     Extra challenge: Use an HTML reference to identify and properly use an element we haven't yet introduced.
 
     Be creative!
+    
+<h4>AboutMe2.html</h4>
+3rd exercise where i tell you about me using basic tags for the second time, if you want you could take a look.
+
+Assignment
+
+    At least 1 image
+
+    At least 1 hyperlink.
+
+    At least 1 image that is a hyperlink.
+
+    At least 3 elements that have the same class.
+
+    At least 1 element with an id.
+
+    At least 1 hyperlink that links to an element using its id.
+
+    At least 1 form that contains at least 3 input elements
+
+    Extra challenge: Use an HTML reference to identify and properly use an element we haven't yet introduced.
+    
+    Be creative!
 <hr>
 <p align="right"> 
 lucadev23
